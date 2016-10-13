@@ -1,0 +1,16 @@
+{
+  "name": "book_sharing",
+  "version": "1.0.0",
+  "description": "this is the project to help people share there old books and other house hold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Dhawan",
+  "license": "ISC",
+  "dependencies": {   
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
