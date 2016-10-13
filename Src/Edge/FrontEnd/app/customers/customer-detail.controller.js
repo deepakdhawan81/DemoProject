@@ -6,6 +6,12 @@
         .controller('CustomerDetail', CustomerDetail);
 
     CustomerDetail.$inject = ['$stateParams', '$window', 'dataservice', 'logger'];
+/* to be removed */
+    function foo()
+    {
+        var x=1;
+        var y = 0;
+    }
     /* @ngInject */
     function CustomerDetail($stateParams, $window, dataservice, logger) {
         var vm = this;
